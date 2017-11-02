@@ -5,7 +5,7 @@
 * [Давайте начнём](chapter1.md)
   * [Быстрый старт для нового пользователя](chapter1/bistrii-start-dlya-novogo-polzovatelya.md)
   * [Быстрый старт для руководителя проекта](chapter1/bistrii-start-dlya-rukovoditelya-proekta.md)
-  * Быстрый старт для системного администратора
+  * [Быстрый старт для системного администратора](chapter1/bistrii-start-dlya-sistemnogo-administratora.md)
   * Настройка списка проблем/задач
   * Настройка панели навигации
   * Ручное упорядочивание списка проблем/задач
