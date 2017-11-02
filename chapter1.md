@@ -1,4 +1,10 @@
 # Давайте начнём
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Если вы новичок в использовании системы YouTrack, то здесь вы найдете несколько полезных замечания, которые помогут вам сориентироваться в использовании этой системы.
+
+## Основная навигация
+
+Когда вы в первый раз входите в систему YouTrack, то сначала вы увидите панель навигации в верхней части экрана:
+
+![](/assets/gettingStartedIssueMainNav.png)
 
