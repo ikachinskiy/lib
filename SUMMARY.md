@@ -50,7 +50,13 @@
     * Значения дат и периодов времени
   * Грамматика поисковых запросов
   * Поиск по задачам через  Jabber
-* Команды
+* [Команды](komandi.md)
+  * Справочник по командам
+  * Грамматика команд
+  * [Применение команд в коммитах VCS](komandi/primenenie-komand-v-kommitah-vcs.md)
+    * Синтаксис команд
+    * Поля подмены
+  * [Применение команд YouTrack в Jabber](komandi/primenenie-komand-youtrack-v-jabber.md)
 * Панели управления
 * Agile-панели
 * [Отчёты](otchyoti.md)
